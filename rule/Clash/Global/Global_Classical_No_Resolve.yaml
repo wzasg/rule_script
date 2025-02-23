@@ -1,14 +1,14 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2025-02-08 02:13:10
+# UPDATED: 2025-02-23 02:11:08
 # DOMAIN: 84
 # DOMAIN-KEYWORD: 36
-# DOMAIN-SUFFIX: 30882
+# DOMAIN-SUFFIX: 30910
 # IP-CIDR: 112
 # IP-CIDR6: 4
 # PROCESS-NAME: 1
-# TOTAL: 31119
+# TOTAL: 31147
 payload:
   - DOMAIN,adobeereg.com
   - DOMAIN,angle.com.tw
@@ -757,6 +757,7 @@ payload:
   - DOMAIN-SUFFIX,adas.ac.uk
   - DOMAIN-SUFFIX,adbecrsl.com
   - DOMAIN-SUFFIX,adbkm.com
+  - DOMAIN-SUFFIX,adblockcdn.com
   - DOMAIN-SUFFIX,adcommerce.tv
   - DOMAIN-SUFFIX,addison-wesley.ch
   - DOMAIN-SUFFIX,addison.ac.uk
@@ -1008,7 +1009,6 @@ payload:
   - DOMAIN-SUFFIX,ahua.ac.uk
   - DOMAIN-SUFFIX,ahvideosexe.com
   - DOMAIN-SUFFIX,ahxxx.club
-  - DOMAIN-SUFFIX,ai.com
   - DOMAIN-SUFFIX,ai3sd.ac.uk
   - DOMAIN-SUFFIX,ai7995.site
   - DOMAIN-SUFFIX,ai91porn.cc
@@ -5286,6 +5286,7 @@ payload:
   - DOMAIN-SUFFIX,cindymovies.com
   - DOMAIN-SUFFIX,cinemax.com
   - DOMAIN-SUFFIX,cinepornogratis.com
+  - DOMAIN-SUFFIX,cinny.in
   - DOMAIN-SUFFIX,cios.org
   - DOMAIN-SUFFIX,ciota.ac.uk
   - DOMAIN-SUFFIX,cirencester.ac.uk
@@ -6892,6 +6893,7 @@ payload:
   - DOMAIN-SUFFIX,drweb.com
   - DOMAIN-SUFFIX,drweb.fr
   - DOMAIN-SUFFIX,drweb.kz
+  - DOMAIN-SUFFIX,drweb.ru
   - DOMAIN-SUFFIX,drweb.uz
   - DOMAIN-SUFFIX,dscis.ac.uk
   - DOMAIN-SUFFIX,dses.ac.uk
@@ -8687,6 +8689,7 @@ payload:
   - DOMAIN-SUFFIX,flowfront.com
   - DOMAIN-SUFFIX,flowfront.net
   - DOMAIN-SUFFIX,flowtype.org
+  - DOMAIN-SUFFIX,fluffychat.im
   - DOMAIN-SUFFIX,fluidfxapp.com
   - DOMAIN-SUFFIX,fluidpreview.com
   - DOMAIN-SUFFIX,fluids.ac.uk
@@ -10071,6 +10074,7 @@ payload:
   - DOMAIN-SUFFIX,grids.ac.uk
   - DOMAIN-SUFFIX,grimsby.ac.uk
   - DOMAIN-SUFFIX,grimsbytec.ac.uk
+  - DOMAIN-SUFFIX,grok.com
   - DOMAIN-SUFFIX,grooby.com
   - DOMAIN-SUFFIX,groq.com
   - DOMAIN-SUFFIX,groupfun.com
@@ -10548,6 +10552,7 @@ payload:
   - DOMAIN-SUFFIX,hentaivn.de
   - DOMAIN-SUFFIX,hentaivn.la
   - DOMAIN-SUFFIX,hentaivn.net
+  - DOMAIN-SUFFIX,hentaivox.com
   - DOMAIN-SUFFIX,hentaivvz.com
   - DOMAIN-SUFFIX,hentaiworld.eu
   - DOMAIN-SUFFIX,hentaiworld.tv
@@ -12981,6 +12986,7 @@ payload:
   - DOMAIN-SUFFIX,kpht85.com
   - DOMAIN-SUFFIX,kpinsurances.com
   - DOMAIN-SUFFIX,kpptoto.info
+  - DOMAIN-SUFFIX,kraken.onl
   - DOMAIN-SUFFIX,krakenjs.com
   - DOMAIN-SUFFIX,krhentai.com
   - DOMAIN-SUFFIX,kristenbjorn.com
@@ -15244,7 +15250,12 @@ payload:
   - DOMAIN-SUFFIX,mwell.ac.uk
   - DOMAIN-SUFFIX,mwhentai.net
   - DOMAIN-SUFFIX,mwrc.ac.uk
+  - DOMAIN-SUFFIX,mxlogin.com
   - DOMAIN-SUFFIX,mxmcdn.net
+  - DOMAIN-SUFFIX,mxroute.com
+  - DOMAIN-SUFFIX,mxroutedocs.com
+  - DOMAIN-SUFFIX,mxroutehelp.com
+  - DOMAIN-SUFFIX,mxrouting.net
   - DOMAIN-SUFFIX,mxshm.site
   - DOMAIN-SUFFIX,my-enema.com
   - DOMAIN-SUFFIX,my-kualalumpur-1.myhuaweicloud.com
@@ -15855,6 +15866,8 @@ payload:
   - DOMAIN-SUFFIX,nexitally.com
   - DOMAIN-SUFFIX,nexitallysafe.com
   - DOMAIN-SUFFIX,nexitcore.com
+  - DOMAIN-SUFFIX,nexo.com
+  - DOMAIN-SUFFIX,nexo.io
   - DOMAIN-SUFFIX,nexon.co.jp
   - DOMAIN-SUFFIX,nexon.io
   - DOMAIN-SUFFIX,nexoncdn.co.kr
@@ -17507,7 +17520,9 @@ payload:
   - DOMAIN-SUFFIX,pixfs.net
   - DOMAIN-SUFFIX,pixhost.to
   - DOMAIN-SUFFIX,pixinsight.com.tw
+  - DOMAIN-SUFFIX,pixiv-recommend.net
   - DOMAIN-SUFFIX,pixiv.co.jp
+  - DOMAIN-SUFFIX,pixiv.help
   - DOMAIN-SUFFIX,pixiv.me
   - DOMAIN-SUFFIX,pixiv.org
   - DOMAIN-SUFFIX,pixlr-o-matic.com
@@ -21412,6 +21427,7 @@ payload:
   - DOMAIN-SUFFIX,thethothub.com
   - DOMAIN-SUFFIX,thetimes.co.uk
   - DOMAIN-SUFFIX,thetimes.ie
+  - DOMAIN-SUFFIX,thetrackernetwork.com
   - DOMAIN-SUFFIX,thetranny.com
   - DOMAIN-SUFFIX,thetread.com
   - DOMAIN-SUFFIX,thetype.com
@@ -21656,6 +21672,8 @@ payload:
   - DOMAIN-SUFFIX,tr.com
   - DOMAIN-SUFFIX,trac.ac.uk
   - DOMAIN-SUFFIX,tracingnetworks.ac.uk
+  - DOMAIN-SUFFIX,tracker.gg
+  - DOMAIN-SUFFIX,tracker.network
   - DOMAIN-SUFFIX,tracking-location.com
   - DOMAIN-SUFFIX,tradevip1.com
   - DOMAIN-SUFFIX,traffcoll.ac.uk
@@ -24535,6 +24553,8 @@ payload:
   - DOMAIN-SUFFIX,youpornxvideos.net
   - DOMAIN-SUFFIX,your-objectstorage.com
   - DOMAIN-SUFFIX,your-server.de
+  - DOMAIN-SUFFIX,your-storagebox.de
+  - DOMAIN-SUFFIX,your-storageshare.de
   - DOMAIN-SUFFIX,youramateurporn.com
   - DOMAIN-SUFFIX,yourassbig.com
   - DOMAIN-SUFFIX,yourbrain.com
@@ -25046,6 +25066,7 @@ payload:
   - DOMAIN-SUFFIX,5i01.com
   - DOMAIN-SUFFIX,5isotoi5.org
   - DOMAIN-SUFFIX,5maodang.com
+  - DOMAIN-SUFFIX,611study.icu
   - DOMAIN-SUFFIX,63i.com
   - DOMAIN-SUFFIX,64museum.org
   - DOMAIN-SUFFIX,64tianwang.com
@@ -25758,6 +25779,7 @@ payload:
   - DOMAIN-SUFFIX,cccat.co
   - DOMAIN-SUFFIX,cccat.io
   - DOMAIN-SUFFIX,ccdtr.org
+  - DOMAIN-SUFFIX,ccfd.org.tw
   - DOMAIN-SUFFIX,cchere.com
   - DOMAIN-SUFFIX,ccim.org
   - DOMAIN-SUFFIX,cclife.ca
@@ -27055,6 +27077,7 @@ payload:
   - DOMAIN-SUFFIX,graphis.ne.jp
   - DOMAIN-SUFFIX,graphql.org
   - DOMAIN-SUFFIX,gravatar.com
+  - DOMAIN-SUFFIX,greasyfork.org
   - DOMAIN-SUFFIX,great-firewall.com
   - DOMAIN-SUFFIX,great-roc.org
   - DOMAIN-SUFFIX,greatfire.org
@@ -27530,6 +27553,7 @@ payload:
   - DOMAIN-SUFFIX,ip.sb
   - DOMAIN-SUFFIX,ipaddress.com
   - DOMAIN-SUFFIX,ipalter.com
+  - DOMAIN-SUFFIX,ipdefenseforum.com
   - DOMAIN-SUFFIX,ipfire.org
   - DOMAIN-SUFFIX,ipfs.io
   - DOMAIN-SUFFIX,iphone4hongkong.com
@@ -28439,6 +28463,7 @@ payload:
   - DOMAIN-SUFFIX,newlandmagazine.com.au
   - DOMAIN-SUFFIX,newmitbbs.com
   - DOMAIN-SUFFIX,newnews.ca
+  - DOMAIN-SUFFIX,news1.kr
   - DOMAIN-SUFFIX,news100.com.tw
   - DOMAIN-SUFFIX,newsancai.com
   - DOMAIN-SUFFIX,newsblur.com
@@ -28512,6 +28537,7 @@ payload:
   - DOMAIN-SUFFIX,nobel.se
   - DOMAIN-SUFFIX,nobelprize.org
   - DOMAIN-SUFFIX,nobodycanstop.us
+  - DOMAIN-SUFFIX,nodeseek.com
   - DOMAIN-SUFFIX,nodesnoop.com
   - DOMAIN-SUFFIX,nofile.io
   - DOMAIN-SUFFIX,nokogiri.org
@@ -28733,6 +28759,7 @@ payload:
   - DOMAIN-SUFFIX,pachosting.com
   - DOMAIN-SUFFIX,pacificpoker.com
   - DOMAIN-SUFFIX,packetix.net
+  - DOMAIN-SUFFIX,pacom.mil
   - DOMAIN-SUFFIX,pacopacomama.com
   - DOMAIN-SUFFIX,paddle.com
   - DOMAIN-SUFFIX,paddleapi.com
@@ -28832,6 +28859,7 @@ payload:
   - DOMAIN-SUFFIX,picjs.xyz
   - DOMAIN-SUFFIX,picturedip.com
   - DOMAIN-SUFFIX,picturesocial.com
+  - DOMAIN-SUFFIX,picuki.com
   - DOMAIN-SUFFIX,pigav.com
   - DOMAIN-SUFFIX,pimg.tw
   - DOMAIN-SUFFIX,pin-cong.com

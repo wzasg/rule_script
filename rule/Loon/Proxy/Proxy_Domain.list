@@ -1,14 +1,14 @@
 # NAME: Proxy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2025-01-27 02:12:21
+# UPDATED: 2025-02-20 02:13:09
 # DOMAIN: 11
 # DOMAIN-KEYWORD: 26
-# DOMAIN-SUFFIX: 6046
+# DOMAIN-SUFFIX: 6054
 # IP-CIDR: 93
 # IP-CIDR6: 4
 # USER-AGENT: 8
-# TOTAL: 6188
+# TOTAL: 6196
 .000webhost.com
 .030buy.com
 .0rz.tw
@@ -106,6 +106,7 @@
 .5i01.com
 .5isotoi5.org
 .5maodang.com
+.611study.icu
 .63i.com
 .64museum.org
 .64tianwang.com
@@ -826,6 +827,7 @@
 .cccat.co
 .cccat.io
 .ccdtr.org
+.ccfd.org.tw
 .cchere.com
 .ccim.org
 .cclife.ca
@@ -2128,6 +2130,7 @@
 .graphis.ne.jp
 .graphql.org
 .gravatar.com
+.greasyfork.org
 .great-firewall.com
 .great-roc.org
 .greatfire.org
@@ -2604,6 +2607,7 @@
 .ip.sb
 .ipaddress.com
 .ipalter.com
+.ipdefenseforum.com
 .ipfire.org
 .ipfs.io
 .iphone4hongkong.com
@@ -3514,6 +3518,7 @@
 .newlandmagazine.com.au
 .newmitbbs.com
 .newnews.ca
+.news1.kr
 .news100.com.tw
 .newsancai.com
 .newsblur.com
@@ -3587,6 +3592,7 @@
 .nobel.se
 .nobelprize.org
 .nobodycanstop.us
+.nodeseek.com
 .nodesnoop.com
 .nofile.io
 .nokogiri.org
@@ -3808,6 +3814,7 @@
 .pachosting.com
 .pacificpoker.com
 .packetix.net
+.pacom.mil
 .pacopacomama.com
 .paddle.com
 .paddleapi.com
@@ -3907,6 +3914,7 @@
 .picjs.xyz
 .picturedip.com
 .picturesocial.com
+.picuki.com
 .pigav.com
 .pimg.tw
 .pin-cong.com

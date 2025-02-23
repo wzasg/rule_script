@@ -1,14 +1,14 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2025-02-08 02:13:10
+# UPDATED: 2025-02-23 02:11:08
 # DOMAIN: 84
 # DOMAIN-KEYWORD: 36
-# DOMAIN-SUFFIX: 30882
+# DOMAIN-SUFFIX: 30910
 # IP-CIDR: 112
 # IP-CIDR6: 4
 # PROCESS-NAME: 1
-# TOTAL: 31119
+# TOTAL: 31147
 adobeereg.com
 angle.com.tw
 anime-rule34-world.b-cdn.net
@@ -756,6 +756,7 @@ self.events.data.microsoft.com
 .adas.ac.uk
 .adbecrsl.com
 .adbkm.com
+.adblockcdn.com
 .adcommerce.tv
 .addison-wesley.ch
 .addison.ac.uk
@@ -1007,7 +1008,6 @@ self.events.data.microsoft.com
 .ahua.ac.uk
 .ahvideosexe.com
 .ahxxx.club
-.ai.com
 .ai3sd.ac.uk
 .ai7995.site
 .ai91porn.cc
@@ -5285,6 +5285,7 @@ self.events.data.microsoft.com
 .cindymovies.com
 .cinemax.com
 .cinepornogratis.com
+.cinny.in
 .cios.org
 .ciota.ac.uk
 .cirencester.ac.uk
@@ -6891,6 +6892,7 @@ self.events.data.microsoft.com
 .drweb.com
 .drweb.fr
 .drweb.kz
+.drweb.ru
 .drweb.uz
 .dscis.ac.uk
 .dses.ac.uk
@@ -8686,6 +8688,7 @@ self.events.data.microsoft.com
 .flowfront.com
 .flowfront.net
 .flowtype.org
+.fluffychat.im
 .fluidfxapp.com
 .fluidpreview.com
 .fluids.ac.uk
@@ -10070,6 +10073,7 @@ self.events.data.microsoft.com
 .grids.ac.uk
 .grimsby.ac.uk
 .grimsbytec.ac.uk
+.grok.com
 .grooby.com
 .groq.com
 .groupfun.com
@@ -10547,6 +10551,7 @@ self.events.data.microsoft.com
 .hentaivn.de
 .hentaivn.la
 .hentaivn.net
+.hentaivox.com
 .hentaivvz.com
 .hentaiworld.eu
 .hentaiworld.tv
@@ -12980,6 +12985,7 @@ self.events.data.microsoft.com
 .kpht85.com
 .kpinsurances.com
 .kpptoto.info
+.kraken.onl
 .krakenjs.com
 .krhentai.com
 .kristenbjorn.com
@@ -15243,7 +15249,12 @@ self.events.data.microsoft.com
 .mwell.ac.uk
 .mwhentai.net
 .mwrc.ac.uk
+.mxlogin.com
 .mxmcdn.net
+.mxroute.com
+.mxroutedocs.com
+.mxroutehelp.com
+.mxrouting.net
 .mxshm.site
 .my-enema.com
 .my-kualalumpur-1.myhuaweicloud.com
@@ -15854,6 +15865,8 @@ self.events.data.microsoft.com
 .nexitally.com
 .nexitallysafe.com
 .nexitcore.com
+.nexo.com
+.nexo.io
 .nexon.co.jp
 .nexon.io
 .nexoncdn.co.kr
@@ -17506,7 +17519,9 @@ self.events.data.microsoft.com
 .pixfs.net
 .pixhost.to
 .pixinsight.com.tw
+.pixiv-recommend.net
 .pixiv.co.jp
+.pixiv.help
 .pixiv.me
 .pixiv.org
 .pixlr-o-matic.com
@@ -21411,6 +21426,7 @@ self.events.data.microsoft.com
 .thethothub.com
 .thetimes.co.uk
 .thetimes.ie
+.thetrackernetwork.com
 .thetranny.com
 .thetread.com
 .thetype.com
@@ -21655,6 +21671,8 @@ self.events.data.microsoft.com
 .tr.com
 .trac.ac.uk
 .tracingnetworks.ac.uk
+.tracker.gg
+.tracker.network
 .tracking-location.com
 .tradevip1.com
 .traffcoll.ac.uk
@@ -24534,6 +24552,8 @@ self.events.data.microsoft.com
 .youpornxvideos.net
 .your-objectstorage.com
 .your-server.de
+.your-storagebox.de
+.your-storageshare.de
 .youramateurporn.com
 .yourassbig.com
 .yourbrain.com
@@ -25045,6 +25065,7 @@ self.events.data.microsoft.com
 .5i01.com
 .5isotoi5.org
 .5maodang.com
+.611study.icu
 .63i.com
 .64museum.org
 .64tianwang.com
@@ -25757,6 +25778,7 @@ self.events.data.microsoft.com
 .cccat.co
 .cccat.io
 .ccdtr.org
+.ccfd.org.tw
 .cchere.com
 .ccim.org
 .cclife.ca
@@ -27054,6 +27076,7 @@ self.events.data.microsoft.com
 .graphis.ne.jp
 .graphql.org
 .gravatar.com
+.greasyfork.org
 .great-firewall.com
 .great-roc.org
 .greatfire.org
@@ -27529,6 +27552,7 @@ self.events.data.microsoft.com
 .ip.sb
 .ipaddress.com
 .ipalter.com
+.ipdefenseforum.com
 .ipfire.org
 .ipfs.io
 .iphone4hongkong.com
@@ -28438,6 +28462,7 @@ self.events.data.microsoft.com
 .newlandmagazine.com.au
 .newmitbbs.com
 .newnews.ca
+.news1.kr
 .news100.com.tw
 .newsancai.com
 .newsblur.com
@@ -28511,6 +28536,7 @@ self.events.data.microsoft.com
 .nobel.se
 .nobelprize.org
 .nobodycanstop.us
+.nodeseek.com
 .nodesnoop.com
 .nofile.io
 .nokogiri.org
@@ -28732,6 +28758,7 @@ self.events.data.microsoft.com
 .pachosting.com
 .pacificpoker.com
 .packetix.net
+.pacom.mil
 .pacopacomama.com
 .paddle.com
 .paddleapi.com
@@ -28831,6 +28858,7 @@ self.events.data.microsoft.com
 .picjs.xyz
 .picturedip.com
 .picturesocial.com
+.picuki.com
 .pigav.com
 .pimg.tw
 .pin-cong.com

@@ -20,7 +20,7 @@ if [[ "$(git config --get remote.upstream.url)" != "$expected_url" ]]; then
 fi
 
 export GIT_TERMINAL_PROMPT=0
-git -c http.lowSpeedLimit=1024 -c http.lowSpeedTime=60 fetch --no-tags upstream refs/heads/master:refs/remotes/upstream/master
+git -c http.version=HTTP/1.1 -c http.lowSpeedLimit=1 -c http.lowSpeedTime=180 -c fetch.negotiationAlgorithm=skipping fetch --no-tags upstream refs/heads/master:refs/remotes/upstream/master
 backup="backup/before-upstream-sync-$(date +%Y%m%d-%H%M%S)-$$"
 git branch "$backup"
 echo "已创建备份分支：$backup"

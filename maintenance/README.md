@@ -21,6 +21,14 @@
 bash maintenance/sync-upstream.sh
 ```
 
+需要使用本机代理时，可仅为本次命令指定代理：
+
+```bash
+https_proxy=http://127.0.0.1:6152 bash maintenance/sync-upstream.sh
+```
+
+该方式不会修改 Git 的全局代理设置。脚本使用 HTTP/1.1、减少协商轮次，并为上游打包预留等待时间。
+
 脚本会确认分支和远程地址，拉取上游，创建 `backup/before-upstream-sync-*` 备份分支，再通过普通 merge 合并。它不会自动推送。
 
 出现冲突时，Git 会停下。根据需要同时保留上游更新与个人规则，逐个编辑冲突文件，然后：

@@ -1,14 +1,14 @@
 # NAME: Apple
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2026-04-08 02:20:44
+# UPDATED: 2026-10-28 05:41:06
 # DOMAIN: 9
 # DOMAIN-KEYWORD: 7
-# DOMAIN-SUFFIX: 1551
+# DOMAIN-SUFFIX: 1550
 # IP-CIDR: 10
 # IP-CIDR6: 3
 # PROCESS-NAME: 13
-# TOTAL: 1593
+# TOTAL: 1592
 payload:
   - 'apple-events.akamaized.net'
   - 'appleworldwidedeveloper.hb-api.omtrdc.net'
@@ -816,7 +816,6 @@ payload:
   - '+.ibeatsbydre.cc'
   - '+.ibeatsbydre.com'
   - '+.ichat.co.in'
-  - '+.icloud-content.com.cn'
   - '+.idvd.eu'
   - '+.igoshopping.net'
   - '+.ikids.com'
@@ -1528,7 +1527,6 @@ payload:
   - '+.appleenews.com'
   - '+.applemusic.berlin'
   - '+.applemusic.co'
-  - '+.applemusic.com'
   - '+.applemusic.com.au'
   - '+.applemusic.hamburg'
   - '+.applemusic.wang'
@@ -1561,6 +1559,7 @@ payload:
   - '+.iphoto.wang'
   - '+.musickit.net'
   - '+.wwwapplemusic.com'
+  - '+.applemusic.com'
   - '+.apple-dns.net'
   - '+.apple.news'
   - '+.appsto.re'
@@ -1569,4 +1568,4 @@ payload:
   - '+.apple-cloudkit.com'
   - '+.apple-livephotoskit.com'
   - '+.apzones.com'
-  - '+.icloud.cn'
+  - '+.icloud-content.com.cn'

@@ -1,13 +1,13 @@
 # NAME: ChinaNoMedia
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2025-12-08 02:09:36
-# DOMAIN: 20
+# UPDATED: 2026-06-22 02:37:36
+# DOMAIN: 17
 # DOMAIN-KEYWORD: 9
-# DOMAIN-SUFFIX: 3587
+# DOMAIN-SUFFIX: 3583
 # IP-CIDR: 15
 # USER-AGENT: 31
-# TOTAL: 3662
+# TOTAL: 3655
 .00cdn.com
 .0123456789.com
 .0379home.com
@@ -978,7 +978,6 @@
 .cqccn.com
 .cqvip.com
 .cr173.com
-.crashlytics.com
 .crggcn.com
 .crsky.com
 .cryuantafund.com
@@ -1322,8 +1321,6 @@
 .funnycore.com
 .funshion.com
 .funshion.net
-.futu5.com
-.futunn.com
 .fuwai.com
 .fuwj.com
 .fxxz.com
@@ -1882,7 +1879,6 @@
 .jiazhao.com
 .jibencaozuo.com
 .jidian.im
-.jiedaibao.gs
 .jiemeng8.com
 .jiemian.com
 .jikeiot.cloud
@@ -3596,7 +3592,6 @@
 analytics.strava.com
 blzddist1-a.akamaihd.net
 cdn.angruo.com
-cdn.lilyemby.com
 client.amplifi.com
 download.jetbrains.com
 download.microsoft.com
@@ -3606,10 +3601,8 @@ kc.kexinshe.com
 ntservicepack.microsoft.com
 origin-a.akamaihd.ne
 origin-a.akamaihd.net
-smart.uhdnow.com
 sms.imagetasks.com
 steamcommunity-a.akamaihd.net
-tx.lilyemby.com
 weixin.com
 www.libvideo.com
 www.yxssp.com

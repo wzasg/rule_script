@@ -1,14 +1,17 @@
 # NAME: Lan
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2026-04-06 02:12:48
-# HOST: 6
-# HOST-SUFFIX: 114
+# UPDATED: 2026-10-20 05:59:47
+# HOST: 9
+# HOST-SUFFIX: 115
 # IP-CIDR: 14
 # IP6-CIDR: 4
-# TOTAL: 138
+# TOTAL: 142
 HOST,asusrouter.com,Lan
 HOST,instant.arubanetworks.com,Lan
+HOST,local.adguard.org,Lan
+HOST,localhost.weixin.qq.com,Lan
+HOST,localhost.work.weixin.qq.com,Lan
 HOST,oasisauth.h3c.com,Lan
 HOST,router.asus.com,Lan
 HOST,setmeup.arubanetworks.com,Lan
@@ -111,6 +114,7 @@ HOST-SUFFIX,b.e.f.ip6.arpa,Lan
 HOST-SUFFIX,d.f.ip6.arpa,Lan
 HOST-SUFFIX,hiwifi.com,Lan
 HOST-SUFFIX,home.arpa,Lan
+HOST-SUFFIX,kis.v2.scr.kaspersky-labs.com,Lan
 HOST-SUFFIX,leike.cc,Lan
 HOST-SUFFIX,localhost.ptlogin2.qq.com,Lan
 HOST-SUFFIX,localhost.sec.qq.com,Lan

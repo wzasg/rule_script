@@ -1,4 +1,10 @@
-DOMAIN-SUFFIX,http://push.apple.com
-DOMAIN-SUFFIX,http://gateway.push.apple.com
-DOMAIN-SUFFIX,http://api.push.apple.com
-DOMAIN-SUFFIX,http://sandbox.push.apple.com
+DOMAIN-SUFFIX,push.apple.com
+DOMAIN-SUFFIX,gateway.push.apple.com
+DOMAIN-SUFFIX,api.push.apple.com
+DOMAIN-SUFFIX,hsandbox.push.apple.com
+
+IP-CIDR,17.249.0.0/16,PROXY,no-resolve
+IP-CIDR,17.252.0.0/16,PROXY,no-resolve
+IP-CIDR,17.57.144.0/22,PROXY,no-resolve
+IP-CIDR,17.188.128.0/18,PROXY,no-resolve
+IP-CIDR,17.188.20.0/23,PROXY,no-resolve
